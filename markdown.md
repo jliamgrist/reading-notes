@@ -14,5 +14,6 @@ Markdown is a programming language that is easy and matters because it is often 
 
 ## Things I want to know more about
 - I want to practice some more *advanced markdown syntax features*.
+- I want to understand differences when using HTML &amp; Markup
 
 [Go Back to Home](README.md)
