@@ -14,3 +14,5 @@ Grit is the most common characteristic of successful people. Having "Grit" means
 
 # Reading Notes
 - [Markdown Basic Syntax](markdown-basic-syntax.md)
+- [Markdown](markdown.md)
+
