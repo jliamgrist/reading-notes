@@ -12,7 +12,6 @@ Grit is the most common characteristic of successful people. Having "Grit" means
 
  My Github Portfolio : [github.com/jliamgrist](https://github.com/jliamgrist)
 
-# Reading Notes
-- [Markdown Basic Syntax](markdown-basic-syntax.md)
+# Reading Notes Table of Contents
 - [Markdown](markdown.md)
 
