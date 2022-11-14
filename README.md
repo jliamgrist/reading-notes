@@ -6,7 +6,7 @@
 # Growth Mindset
 
 Grit is the most common characteristic of successful people. Having "Grit" means you have a "Growth Mindset". 
-## I find that I have a groth mindeset when I...
+### I find that I have a growth mindeset when I...
  - Have a learning process
  - Accept failure as opportunities to learn
 
