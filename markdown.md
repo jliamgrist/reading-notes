@@ -13,6 +13,6 @@ Markdown is a programming language that is easy and matters because it is often 
 > These notes are summarized from [github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Things I want to know more about
-- I want to practice some more *advanced* markdown syntax features.
+- I want to practice some more *advanced markdown syntax features*.
 
 [Go Back to Home](README.md)
