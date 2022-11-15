@@ -1,17 +1,41 @@
-# reading-notes
+# Reading Notes
+
+This site consists of notes from my reading/work with Code Fellows 
 
 ![Liam Grist](https://avatars.githubusercontent.com/u/75773961?v=4)
-[About Me](aboutme.html)
 
-# Growth Mindset
+### [About Me](aboutme.html)
 
-Grit is the most common characteristic of successful people. Having "Grit" means you have a "Growth Mindset". 
-### I find that I have a growth mindeset when I...
- - Have a learning process
- - Accept failure as opportunities to learn
+### My Github Portfolio : [github.com/jliamgrist](https://github.com/jliamgrist)
 
- My Github Portfolio : [github.com/jliamgrist](https://github.com/jliamgrist)
+## Table of Contents
 
-# Reading Notes Table of Contents
-- [Markdown](markdown.md)
-- [Revisions and The Cloud](revisions-and-the-cloud.md)
+### Code 102 Reading Notes
+
+1. [Markdown](markdown.md)
+2. [Revisions and The Cloud](revisions-and-the-cloud.md
+3.
+4.
+5.
+6.
+7.
+8.
+
+
+### Code 201 Reading Notes
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
