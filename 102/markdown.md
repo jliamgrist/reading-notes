@@ -20,4 +20,4 @@ Markdown is a programming language that is easy and matters because it is often 
 
 When working on a project with some developers, I noticed they were able to manipulate text styling, within cards on our project board (Atlassan). Now I'm seeing how it's really done! 
 
-[Go Back to Home](README.md)
+[Go Back to Home](../README.md)
