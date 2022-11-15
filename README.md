@@ -2,8 +2,6 @@
 
 This site consists of notes from my reading/work with Code Fellows 
 
-![Liam Grist](https://avatars.githubusercontent.com/u/75773961?v=4)
-
 ### [About Me](aboutme.html)
 
 ### My Github Portfolio : [github.com/jliamgrist](https://github.com/jliamgrist)
