@@ -13,7 +13,7 @@ This site consists of notes from my reading/work with Code Fellows
 ### Code 102 Reading Notes
 
 1. [Markdown](markdown.md)
-2. [Revisions and The Cloud](revisions-and-the-cloud.md
+2. [Revisions and The Cloud](revisions-and-the-cloud.md)
 3.
 4.
 5.
