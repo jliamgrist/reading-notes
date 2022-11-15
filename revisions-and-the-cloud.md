@@ -35,5 +35,8 @@ Create a topic branch from master
 
 ## What I'd like to learn more about
 
-In a company setting, I can imagine that just managing the repo and all the pull requests is a big job. What is this job like? What is that carreer title?
+- In a company setting, I can imagine that just managing the repo and all the pull requests is a big job. What is this job like? What is that carreer title?
+- Can the state censor a GitHub repo? 
+- What makes GitLab different?
 
+[Go Back to Home](README.md)
