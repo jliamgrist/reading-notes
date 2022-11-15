@@ -16,7 +16,7 @@ Markdown is a programming language that is easy and matters because it is often 
 - I want to practice some more *advanced markdown syntax features*.
 - I want to understand differences when using HTML &amp; Markup. 
 
-## How I began to learn markdown
+## How I began to learn markdown...
 
 When working on a project with some developers, I noticed they were able to manipulate text styling, within cards on our project board (Atlassan). Now I'm seeing how it's really done! 
 
