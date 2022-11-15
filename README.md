@@ -15,4 +15,3 @@ Grit is the most common characteristic of successful people. Having "Grit" means
 # Reading Notes Table of Contents
 - [Markdown](markdown.md)
 - [Revisions and The Cloud](revisions-and-the-cloud.md)
-
