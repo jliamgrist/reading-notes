@@ -8,7 +8,7 @@ This site consists of notes from my reading/work with Code Fellows
 
 ### My Github Portfolio : [github.com/jliamgrist](https://github.com/jliamgrist)
 
-## Table of Contents
+# Table of Contents
 
 ### Code 102 Reading Notes
 
