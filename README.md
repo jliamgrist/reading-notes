@@ -1,7 +1,7 @@
 # reading-notes
 
-
 ![Liam Grist](https://avatars.githubusercontent.com/u/75773961?v=4)
+[About Me](aboutme.html)
 
 # Growth Mindset
 
@@ -14,5 +14,5 @@ Grit is the most common characteristic of successful people. Having "Grit" means
 
 # Reading Notes Table of Contents
 - [Markdown](markdown.md)
-- [About Me](aboutme.html)
+- [Revisions and The Cloud](revisions-and-the-cloud.md)
 
