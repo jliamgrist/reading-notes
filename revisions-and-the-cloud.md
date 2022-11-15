@@ -6,22 +6,25 @@ We use git for version control of our code. This way, we can track changes, have
 
 ### Commit Flow
 
-# To commit and push: #
+** To commit and push: **
 
 > git status
 > git add .
-This command adds all the files with any changes to the commit
+
+> - This command adds all the files with any changes to the commit
+
 > git commit -m "my commit message:
 > git push origin main
 
-# To clone a remote repo #
+** To clone a remote repo **
 
 > git clone https://github.com/link-to-repo
 
-# To pull from remote repo #
+** To pull from remote repo **
 
-> git pull 
-This will fetch and merge remote changes
+> git pull s
+
+> - This will fetch and merge remote changes
 
 Collaboration using GitHub requires the use of creating and managing Pull Requests. 
 Collaboration Workflow: 
