@@ -12,28 +12,28 @@ This site consists of notes from my reading/work with Code Fellows
 
 1. [Markdown](markdown.md)
 2. [Revisions and The Cloud](revisions-and-the-cloud.md)
-3. Notes
-4. Notes
-5. Notes
-6. Notes
-7. Notes
-8. Notes
+3. [class3](/102/class3.md)
+4. [class4](/102/class4.md)
+5. [class5](/102/class5.md)
+6. [class6](/102/class6.md)
+7. [class7](/102/class7.md)
+8. [class8](/102/class8.md)
 
 
 ### Code 201 Reading Notes
 
-1. Notes
-2. Notes
-3. Notes
-4. Notes
-5. Notes
-6. Notes
-7. Notes
-8. Notes
-9. Notes
-10. Notes
-11. Notes
-12. Notes
-13. Notes
-14. Notes
-15. Notes
+1. [class1](/201/class1.md)
+2. [class2](/201/class2.md)
+3. [class3](/201/class3.md)
+4. [class4](/201/class4.md)
+5. [class5](/201/class5.md)
+6. [class6](/201/class6.md)
+7. [class7](/201/class7.md)
+8. [class8](/201/class8.md)
+9. [class9](/201/class9.md)
+10. [class10](/201/class10.md)
+11. [class11](/201/class11.md)
+12. [class12](/201/class12.md)
+13. [class13](/201/class13.md)
+14. [class14](/201/class14.md)
+15. [class15](/201/class15.md)
