@@ -6,7 +6,7 @@ We use git for version control of our code. This way, we can track changes, have
 
 ### Commit Flow
 
-** To commit and push: **
+**To commit and push:**
 
 > git status
 > git add .
@@ -16,11 +16,11 @@ We use git for version control of our code. This way, we can track changes, have
 > git commit -m "my commit message:
 > git push origin main
 
-** To clone a remote repo **
+**To clone a remote repo**
 
 > git clone https://github.com/link-to-repo
 
-** To pull from remote repo **
+**To pull from remote repo**
 
 > git pull s
 
