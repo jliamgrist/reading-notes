@@ -10,9 +10,9 @@ This site consists of notes from my reading/work with Code Fellows
 
 ### Code 102 Reading Notes
 
-1. [Markdown](./102/markdown.md)
-2. [Revisions and The Cloud](./102/revisions-and-the-cloud.md)
-3. [class3](/102/class3.md)
+1. class1
+2. [Markdown](./102/markdown.md)
+3. [Revisions and The Cloud](./102/revisions-and-the-cloud.md)
 4. [class4](/102/class4.md)
 5. [class5](/102/class5.md)
 6. [class6](/102/class6.md)
