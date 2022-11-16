@@ -16,11 +16,15 @@ All content goes inside the `<body>` tag
 
 Draft a wireframe first!
 
+It is important to understand the user experience/flow before starting to design the visual mockups of the pages
+
 - use google drawings to draft html
 - use Adobe XD or Figma to design visual mockup
 - then code
 
-It is important to understand the user experience/flow before starting to design the visual mockups of the pages
+[how to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
+***
 
 ## What I'd like to learn more about
 
