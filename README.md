@@ -14,8 +14,8 @@
 4. [HTML](/102/class4.md)
 5. [Design web pages with CSS](/102/class5.md)
 6. [Dynamic web pages with JavaScript](/102/class6.md)
-7. [class7](/102/class7.md)
-8. [class8](/102/class8.md)
+7. [Programming with JavaScript](/102/class7.md)
+8. [Operators and Loops](/102/class8.md)
 
 
 ### Code 201 Reading Notes
