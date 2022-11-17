@@ -1,8 +1,4 @@
-# Reading Notes
-
-This site consists of notes from my reading/work with Code Fellows 
-
-### [About Me](aboutme.html)
+# Teaching / Reading Notes
 
 ### My Github Portfolio : [github.com/jliamgrist](https://github.com/jliamgrist)
 
@@ -14,8 +10,8 @@ This site consists of notes from my reading/work with Code Fellows
 2. [Markdown](./102/markdown.md)
 3. [Revisions and The Cloud](./102/revisions-and-the-cloud.md)
 4. [HTML](/102/class4.md)
-5. [class5](/102/class5.md)
-6. [class6](/102/class6.md)
+5. [Design web pages with CSS](/102/class5.md)
+6. [Dynamic web pages with JavaScript](/102/class6.md)
 7. [class7](/102/class7.md)
 8. [class8](/102/class8.md)
 
