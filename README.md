@@ -8,7 +8,7 @@
 
 ### Code 102 Reading Notes
 
-1. [The Coder's Computer](./102/markdown.md)
+1. [The Coder's Computer](./102/class1.md)
 2. [Markdown](./102/markdown.md)
 3. [Revisions and The Cloud](./102/revisions-and-the-cloud.md)
 4. [HTML](/102/class4.md)
