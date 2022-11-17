@@ -4,9 +4,11 @@
 
 # Table of Contents
 
+* [Grit](./102/growth-mindset.md)
+
 ### Code 102 Reading Notes
 
-1. class1
+1. [The Coder's Computer](./102/markdown.md)
 2. [Markdown](./102/markdown.md)
 3. [Revisions and The Cloud](./102/revisions-and-the-cloud.md)
 4. [HTML](/102/class4.md)
