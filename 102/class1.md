@@ -6,6 +6,7 @@ There are other important elements of a good workspace, within ones computer:
 
 * An IDE you are familiar with
     * This IDE should have the ability to highlight syntax, use extensions, and easily navigate files
+    * A common IDE is Visual Code Studio, by Microsoft
 * An opperating system you are comfortable with
     * With sufficient memory (RAM) for your projects
 * A smooth integration with GitHub or Gitlab    
