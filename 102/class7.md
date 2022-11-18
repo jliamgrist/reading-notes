@@ -18,14 +18,14 @@ Assignment operators assign values to JavaScript variables.
 The Addition Assignment Operator (+=) adds a value to a variable.
 
 Operator
-+	Addition
--	Subtraction
-*	Multiplication
-**	Exponentiation (ES2016)
-/	Division
-%	Modulus (Division Remainder)
-++	Increment
---	Decrement
+> `+`	Addition
+> `-`	Subtraction
+> `*`	Multiplication
+> `**`	Exponentiation (ES2016)
+> `/`	Division
+> `%`	Modulus (Division Remainder)
+> `++`	Increment
+> `--`	Decrement
 
 ## Things I want to Know More About
 I want to read other code bases and look for the use of operands to try to understand what an expression is doing, or evaluates to. 
