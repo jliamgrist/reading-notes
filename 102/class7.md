@@ -10,6 +10,10 @@ A typical script in JavaScript or PHP (and the like) includes many control struc
 A JavaScript function is a block of code designed to perform a particular task.
 A JavaScript function is executed when "something" invokes it (calls it).
 
+"function" is a keyword that comes before the function name, any parameters (), and the declaration {} with any code for the function to run.
+
+To invoke or execute a function, for use in programming, call the function using the function's name and include any necessary arguments.
+
 ## Operators
 
 Operators do something with operands. 
