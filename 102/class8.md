@@ -1,5 +1,7 @@
 # Operators and Loops
 
+Operators and loops are extremely useful in programming. 
+
 * Operators are used to form an expression with operands. 
 * Loops are used to repeat or iterate over something. 
 
