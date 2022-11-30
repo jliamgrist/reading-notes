@@ -56,7 +56,7 @@ What is the use of an else if?
 >to let the code continue running through other options that may return true.
 
 List 3 different types of comparison operators.
-> `|| , &&, >=`
+> `||` , `&&`, `>=`
 
 What is the difference between the logical operator && and ||?
 >both statements must return true
