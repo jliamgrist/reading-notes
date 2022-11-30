@@ -1,5 +1,7 @@
 # Readings: Basics of HTML, CSS & JS
 
+Without understnading how a HTML document is structured, it is impossible to know how to modify, add a feature, or do pretty much anything more than just changing text. 
+
 Why is it important to use semantic elements in our HTML?
   
   >It is important to use semantic elements in HTML because they give text meaning, and make it accessible to screen readers and search engines.
@@ -60,3 +62,10 @@ List 3 different types of comparison operators.
 
 What is the difference between the logical operator && and ||?
 >both statements must return true
+
+
+## Things I want to know more about:
+
++ how to create boxes for content
++ how to use flex and make things mobile responsive
++ how to insert text from another source (server) into the DOM as an HTML element, for example replacing a block with a paragraph. 
