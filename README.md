@@ -21,8 +21,8 @@
 ### Code 201 Reading Notes
 
 1. [How the Web Works, Web Design](/201/class1.md)
-2. [Readings: Basics of HTML, CSS & JS](/201/class2.md)
-3. [class3](/201/class3.md)
+2. [Basics of HTML, CSS & JS](/201/class2.md)
+3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/201/class3.md)
 4. [class4](/201/class4.md)
 5. [class5](/201/class5.md)
 6. [class6](/201/class6.md)
