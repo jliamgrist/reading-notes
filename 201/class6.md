@@ -17,7 +17,7 @@
 
 2. The DOM can render javascript to visually represent on the page.
 
-# Understanding The Problem Domain
+### Understanding The Problem Domain
 
 + Read the problem completely twice.
 + Solve the problem manually with 3 sets of sample data.
@@ -25,4 +25,12 @@
 + Write the manual steps as comments or pseudo-code.
 + Replace the comments or pseudo-code with real code.
 + Optimize the real code.
+
+### What’s the Difference Between Primitive Values and Object References in JavaScript?
+
+Objects are references to a location in computer memory. Primitive values store the value directly and are immutable. 
+
+## Things I want to know more about
+
+How to access properties in JSON objects. 
 
