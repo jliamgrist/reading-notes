@@ -26,7 +26,7 @@
 4. [HTML Links, JS Functions, and Intro to CSS Layout](/201/class4.md)
 5. [class5](/201/class5.md)
 6. [Objects, the DOM](/201/class6.md)
-7. [class7](/201/class7.md)
+7. [Objects, Constructor](/201/class7.md)
 8. [class8](/201/class8.md)
 9. [class9](/201/class9.md)
 10. [class10](/201/class10.md)
