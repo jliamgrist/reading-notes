@@ -25,6 +25,7 @@ We can use "this" to refer to "this" in our constructor code, instead of the sin
 
 ## Object Prototypes Using A Constructor
 
+Prototypes are a way to attach to a constructor methods that are inherited. They are objects that get attached to a constructor.
 We can use prototypes to share methods across objects. 
 If I was a barista at a cafe, each latte I create is an object. I can use a prototype to calculate, based on for example how hot it is outside, how much coffee i should use for each grind. 
 
