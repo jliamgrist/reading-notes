@@ -28,7 +28,7 @@
 6. [Objects, the DOM](/201/class6.md)
 7. [Objects, Constructor](/201/class7.md)
 8. [class8](/201/class8.md)
-9. [class9](/201/class9.md)
+9. [HTML Web forms — Working with user data](/201/class9.md)
 10. [class10](/201/class10.md)
 11. [class11](/201/class11.md)
 12. [class12](/201/class12.md)
