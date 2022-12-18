@@ -32,6 +32,6 @@
 10. [Troubleshooting, Debugging](/201/class10.md)
 11. [Class 11](/201/class11.md)
 12. [Class 12](/201/class12.md)
-13. [class13](/201/class13.md)
+13. [Class 13 - HTML5 Local Storage](/201/class13.md)
 14. [class14](/201/class14.md)
 15. [class15](/201/class15.md)
