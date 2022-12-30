@@ -5,6 +5,8 @@
 # Table of Contents
 
 * [Grit](./102/growth-mindset.md)
+* [About Me](./102/aboutme.html)
+
 
 ### Code 102 Reading Notes
 
