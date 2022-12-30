@@ -21,12 +21,14 @@ nav li {
   flex-direction: row;
   align-items: center;
   text-decoration: none;
+  background-color: #F2A922;
+  padding: 12px 30px;
 }
 
 body {
   border-color: #732002;
   background-color: #323E40;
-  color: #fff;
+  color: #323E40;
   border: 2px;
   margin: 10%;
 text-decoration: none;
@@ -56,7 +58,7 @@ button:hover {
 
 main img {
   padding: 5%;
-    width: 150px;
+  width: 150px;
   
 }
 
